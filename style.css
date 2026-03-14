@@ -1321,8 +1321,8 @@ h2 {
         top: 100%;
 
         width: 40%;
-        border-left: 3px solid rgb(134, 32, 147);
-        border-bottom: 3px solid rgb(128, 47, 163);
+        border-left: 3px solid #ed4e98;
+        border-bottom: 3px solid #a81c5e;
         border-bottom-left-radius: 2rem;
         padding: 1rem solid;
         background-color: black;
@@ -1394,7 +1394,6 @@ h2 {
 }
 
 
-
 @media (max-width: 910px) {
     .home-img {
         display: none;
@@ -1411,7 +1410,7 @@ h2 {
         flex-direction: column;
         align-items: flex-start;
         /* يخلي الروابط تبدا من الطرف */
-        background-color: #651161;
+        background-color: #9a255c;
         position: absolute;
         top: 60px;
         right: 20px;
@@ -1451,7 +1450,6 @@ h2 {
 
     }
 }
-
 
 @media (max-width: 706px) {
     .about {
@@ -1558,7 +1556,6 @@ h2 {
     .btn {
         margin-left: 50px;
     }
-
 
 
 
